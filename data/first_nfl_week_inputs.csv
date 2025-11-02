@@ -1,0 +1,15 @@
+game_id,kickoff_et,home_team,away_team,favorite,spread_fav,total,ml_fav,ml_dog,home_city,weather_precip,weather_temp_f,weather_breezy,inj_out_fav,inj_doubt_fav,inj_quest_fav,inj_out_dog,inj_doubt_dog,inj_quest_dog,off_epa_fav,def_epa_allowed_fav,off_epa_dog,def_epa_allowed_dog
+2025W09_BAL_MIA,2025-11-02 10:00,MIA,BAL,BAL,7.5,51.5,-420,330,"Miami Gardens, FL",0,80,1,0,0,0,1,1,4,0.0,0.13,-0.01,0.11
+2025W09_NYG_SF,2025-11-02 10:00,NYG,SF,SF,2.5,48.5,-150,130,"East Rutherford, NJ",0,62,0,0,0,3,3,1,2,0.0,0.13,-0.01,0.11
+2025W09_HOU_DEN,2025-11-02 10:00,HOU,DEN,HOU,1.5,39.5,-125,105,"Houston, TX",0,74,0,1,0,1,2,0,1,-0.03,0.02,-0.02,0.01
+2025W09_PIT_IND,2025-11-02 10:00,PIT,IND,IND,3.5,51.0,-170,145,"Pittsburgh, PA",0,58,0,1,0,1,2,1,2,0.02,0.12,-0.01,0.11
+2025W09_CIN_CHI,2025-11-02 10:00,CIN,CHI,CHI,2.5,51.5,-150,130,"Cincinnati, OH",0,50,0,1,0,1,2,0,2,-0.01,0.11,-0.02,0.12
+2025W09_GB_CAR,2025-11-02 10:00,GB,CAR,GB,12.5,43.5,-900,600,"Green Bay, WI",0,51,1,1,0,2,3,0,1,0.01,0.1,-0.02,0.13
+2025W09_DET_MIN,2025-11-02 10:00,DET,MIN,DET,8.5,48.5,-420,330,"Detroit, MI",0,70,0,0,0,1,2,1,3,0.04,0.09,-0.02,0.12
+2025W09_TEN_LAC,2025-11-02 10:00,TEN,LAC,LAC,10.5,43.5,-500,380,"Nashville, TN",0,53,0,1,0,1,2,0,1,0.03,0.09,-0.02,0.12
+2025W09_NE_ATL,2025-11-02 10:00,NE,ATL,NE,5.5,45.5,-210,180,"Foxborough, MA",0,52,0,1,0,1,2,1,2,0.02,0.1,-0.01,0.12
+2025W09_LV_JAX,2025-11-02 13:05,LV,JAX,JAX,3.5,44.5,-150,125,"Las Vegas, NV",0,72,0,1,0,1,2,0,1,0.02,0.11,-0.01,0.12
+2025W09_LAR_NO,2025-11-02 13:25,LAR,NO,LAR,13.5,43.5,-1100,700,"Inglewood, CA",0,72,0,1,0,1,1,0,1,0.03,0.1,-0.02,0.12
+2025W09_BUF_KC,2025-11-02 13:25,BUF,KC,KC,1.5,52.5,-130,110,"Orchard Park, NY",0,55,0,1,0,1,2,0,1,0.04,0.08,-0.02,0.12
+2025W09_WAS_SEA,2025-11-02 17:20,WAS,SEA,SEA,3.5,48.5,-160,135,"Landover, MD",0,63,0,1,0,1,1,0,1,0.02,0.1,-0.01,0.11
+2025W09_DAL_ARI,2025-11-03 17:15,DAL,ARI,DAL,3.5,53.5,-173,144,"Arlington, TX",0,72,0,0,0,1,1,0,1,0.03,0.1,-0.02,0.11
