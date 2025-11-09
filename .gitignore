@@ -5,6 +5,7 @@ __pycache__/
 
 # zip
 *.zip
+final_proj/data/archive/
 
 # C extensions
 *.so
@@ -208,3 +209,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.gitignore
+.gitignore
+final_proj/data/races.csv
+final_proj/data/horses.csv
+# Ignore large data files generated during preprocessing — keep them out of git history
+final_proj/data/merged.csv
+final_proj/data/horses_clean.csv
+final_proj/data/races_clean.csv
+.gitignore
+.DS_Store
